@@ -4,8 +4,6 @@ As a developer proficient in Python and R, with over four years of experience in
 
 I am skilled in utilizing REST APIs to improve integration and data flow between services. My expertise extends to building tools and cloud infrastructure that facilitate data analysis and statistical modeling, ensuring scalable and eﬃcient workflows.
 
-Enthusiast of testing and consistent documentation, turning chaotic bugs into orderly features one note at a time.
-
 I am also a co-organizer of [PyWaw](http://pywaw.org), a community for Python enthusiasts in Warsaw. <img src="http://pywaw.org/static/img/logo.png" alt="PyWaw Logo" width="25">
 
 ## Technologies I Use 🛠️
