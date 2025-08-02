@@ -1,6 +1,6 @@
 # Hi, I'm Michał 👋
 
-As a developer proficient in Python and R, with over four years of experience in the pharmaceutical industry, I possess a comprehensive skill set underpinned by robust business acumen. My career is driven by a passion for transforming data into actionable insights and strategic decisions, leading to successful projects that advance organizational goals. I specialize in developing data solutions that align with business objectives, emphasizing value creation, reusability, and enhancing operational eﬃciency. 
+As a developer proficient in Python and R, with over five years of experience in the pharmaceutical industry, I possess a comprehensive skill set underpinned by robust business acumen. My career is driven by a passion for transforming data into actionable insights and strategic decisions, leading to successful projects that advance organizational goals. I specialize in developing data solutions that align with business objectives, emphasizing value creation, reusability, and enhancing operational eﬃciency. 
 
 I am skilled in utilizing REST APIs to improve integration and data flow between services. My expertise extends to building tools and cloud infrastructure that facilitate data analysis and statistical modeling, ensuring scalable and eﬃcient workflows.
 
